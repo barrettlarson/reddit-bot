@@ -59,7 +59,7 @@ def run_bot(reddit, comments_replied_to):
                 reply_message = ("McComas is fairly unoccupied with a current occupancy of " + str(occupancy) +
                                  ". Now's would be a great time to go!")
             elif occupancy < empty:
-                reply_message = ("No one is in McComas right now. I would check"
+                reply_message = ("McComas is empty right now. I would check"
                                  " https://recsports.vt.edu/facilities/hours.html to see if the gym is open.")
             else:
                 reply_message = ("McComas is neither crowded nor empty with a current occupancy of " +
