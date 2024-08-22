@@ -1,1 +1,1 @@
-# reddit-bot
+Hi! This is a bot that web-scrapes occupancy data for the McComas Hall gym at Virginia Tech using BeautifulSoup and automates a response dependent on the occupancy value on Reddit by using the PRAW API.
